@@ -51,3 +51,6 @@ taxa_mutacao = 0.1
 - Melhoria progressiva do fitness ao longo das gerações
 - Convergência para valores próximos do objetivo
 - Gráfico mostrando a trajetória de aprendizado
+
+  ![image](https://github.com/user-attachments/assets/d7577d2a-42af-49e6-8d53-d3e3080d6922)
+
